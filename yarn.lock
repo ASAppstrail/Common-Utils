@@ -5385,6 +5385,21 @@ react-is@^19.2.3:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-19.3.0.tgz#716028d67e9993d23a2d353c6d08a3c1ef2bbeb4"
   integrity sha512-UpMYezM4v5/18F28aC66AEsjXIgE02kyEMH6yLdgLXu/UTfa1Ntwck/nNLrbqJsEXW7gPb0coNO9FQse9WTovA==
 
+react-native-android-location-enabler@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-android-location-enabler/-/react-native-android-location-enabler-3.0.1.tgz#b263b1fbac1491888601ccff9ef88430a13dc7ed"
+  integrity sha512-X4gHdEFf/dqSNhVDQ2cQUibnNRd6xIG34UGDMnwoCKIPLC2wYzALs/gPrDnjrAWsuxjaleZXwUIrX3o9nbtsgw==
+
+react-native-device-info@^15.0.2:
+  version "15.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-15.0.2.tgz#c7de1bb6baeb07e1bab70159ad540c5705cb8dc0"
+  integrity sha512-dd71eXG2l3Cwp66IvKNadMTB8fhU3PEjyVddI97sYan+D4bgIAUmgGDhbSOFvHcGavksb2U17kiQYaDiK2WK2g==
+
+react-native-permissions@^5.6.2:
+  version "5.6.2"
+  resolved "https://registry.yarnpkg.com/react-native-permissions/-/react-native-permissions-5.6.2.tgz#0e7d1d4c71dfc0eb594da263cb461bd315b93616"
+  integrity sha512-UHbmr5NgHamI/qj/ahsO9QubKmWktycTuJySOWO0Ua2UBYk8In8LlECEO7fLKlO1+MA/noRfvTgEMNb9EqU2TQ==
+
 react-native-safe-area-context@^5.5.2:
   version "5.10.0"
   resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-5.10.0.tgz#3576391a6dcbf51a73f184438e6542ef56a86cc1"
